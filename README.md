@@ -20,9 +20,9 @@ Program ini menyediakan antarmuka berbasis teks (CLI) sederhana untuk mengelola 
 <img width="504" height="301" alt="Screenshot 2025-09-14 144218" src="https://github.com/user-attachments/assets/43ac7724-f15a-407d-8494-06f89e87fb63" />
 
 1. Tambah Penyewa
-Pengguna dapat memasukkan nama penyewa dan nomor kamar.
-Sistem akan mengecek apakah nomor kamar sudah terpakai atau belum.
-jika belum, data penyewa akan ditambahkan.
+-Pengguna dapat memasukkan nama penyewa dan nomor kamar
+-Sistem akan mengecek apakah nomor kamar sudah terpakai atau belum
+-jika belum, data penyewa akan ditambahkan.
 
 
 <img width="605" height="287" alt="Screenshot 2025-09-14 155232" src="https://github.com/user-attachments/assets/aa54a7ef-fadf-46e4-97cd-dbb22c804a83" />
